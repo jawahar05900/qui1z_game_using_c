@@ -60,5 +60,5 @@ This project is licensed under the MIT License. Feel free to use and modify it f
 
 Jawahar J
 
-- 📂 GitHub
-- 💼 LinkedIn
+📂 GitHub
+💼 LinkedIn
